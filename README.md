@@ -19,10 +19,10 @@ The project aims to analyze this data to identify prevalent MDCs across hospital
 - Is there a healthcare system lacking in resources?
 
 ### Results
-<img src="Visuals/TopMDCs.png" alt="RF Report" width="400">
+<img src="Visuals/TopMDCs.png" alt="RF Report" width="600">
 
 
-<img src="Visuals/MDC_Shortage.png" alt="RF Report" width="400">
+<img src="Visuals/MDC_Shortage.png" alt="RF Report" width="500">
 
 
 <img src="Visuals/PrimaryCare.png" alt="RF Report" width="400">
@@ -31,10 +31,10 @@ The project aims to analyze this data to identify prevalent MDCs across hospital
 <img src="Visuals/MentalHealth.png" alt="RF Report" width="400">
 
 
-<img src="Visuals/PXCountMap.png" alt="RF Report" width="400">
+<img src="Visuals/PXCountMap.png" alt="RF Report" width="600">
 
 
-<img src="Visuals/ShortageMap.png" alt="RF Report" width="400">
+<img src="Visuals/ShortageMap.png" alt="RF Report" width="650">
 
 
 
