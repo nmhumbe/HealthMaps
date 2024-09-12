@@ -1,6 +1,6 @@
 # Health Maps
 
-#### California Hospitals and Physician Demands Data Analysis Project 
+#### California Hospitals Resource Allocation Data Analysis Project 
 
 ## About this Project
 
@@ -8,7 +8,7 @@
 This project utilizes data from the California Health and Human Services Open Data Portal, which provides information on the Top Five Major Diagnostic Categories (MDCs) for inpatient diagnoses across all California hospitals. The dataset, sourced from Patient Discharge Data (PDD), details the frequency of these diagnostic categories in various hospitals, offering a comprehensive view of the most common medical conditions in the state.
 
 ### Description/Motivation
-The project aims to analyze this data to identify prevalent MDCs across hospitals, assess the need for primary care and mental health professionals, and determine the demand for specific physician specialists. By pinpointing where additional healthcare resources and professional expertise are most needed, the project supports effective resource allocation, addresses physician shortages, and informs policy decisions, ultimately improving the responsiveness and efficiency of the healthcare system in California.
+The project aims to analyze this data to identify prevalent MDCs across hospitals, assess the need for primary care and mental health professionals, and determine the demand for specific physician specialists. By pinpointing where additional healthcare resources and professional expertise are most needed, the project supports effective resource allocation, addresses physician shortages, and can help inform health policy decisions.
 
 ### Key Analysis Questions
 1. Which Major Diagnostic Categories are most prevalent in California hospitals?
@@ -16,10 +16,25 @@ The project aims to analyze this data to identify prevalent MDCs across hospital
 2. Which hospitals are in need of primary care physicians to meet patient demands?
 3. Which mental health facilities are in need of mental health specialists to meet patient deamnds?
 4. How does region and healthcare system influence the types of common diagnoses and patient volumes?
-   a. Is there a healthcare system lacking in resources?
+- Is there a healthcare system lacking in resources?
 
 ### Results
+<img src="Visuals/TopMDCs.png" alt="RF Report" width="400">
 
+
+<img src="Visuals/MDC_Shortage.png" alt="RF Report" width="400">
+
+
+<img src="Visuals/PrimaryCare.png" alt="RF Report" width="400">
+
+
+<img src="Visuals/MentalHealth.png" alt="RF Report" width="400">
+
+
+<img src="Visuals/PXCountMap.png" alt="RF Report" width="400">
+
+
+<img src="Visuals/ShortageMap.png" alt="RF Report" width="400">
 
 
 
