@@ -26,25 +26,34 @@ The project aims to analyze this data to identify prevalent MDCs across hospital
 1. Diseases related to the  **Respiratory System**, **Infectious Diseases**, **Pregnancies/Childbirth**, and **Complications with Newborns/Neonates** are the most prevalent Diagnostic Categories in California.
 
 &nbsp;
+&nbsp;
+
 
 <img src="Visuals/MDC_Shortage.png" alt="RF Report" width="900">
 
 2. **Pregnancies/Childbirth**, **Complications with Newborns/Neonates**, **Infectious Diseases**, and **Circulatory System Diseases** are the most prevalent Diagnostic Categories in various health systems with **Physician Shortages**.
 
 &nbsp;
+&nbsp;
+
 
 <img src="Visuals/PrimaryCare.png" alt="RF Report" width="600">
 3. The above 6 hopsitals should be the top priority to meet the demands of filling Primary Care Provider positions at there hospitals due to them being in Primary Care shortage areas and having high counts of patient admissions for diseases needing a Primary Care Provider. 
 
 &nbsp;
-
-<img src="Visuals/MentalHealth.png" alt="RF Report" width="400">
-
-
-<img src="Visuals/PXCountMap.png" alt="RF Report" width="600">
+&nbsp;
 
 
-<img src="Visuals/ShortageMap.png" alt="RF Report" width="650">
+<img src="Visuals/MentalHealth.png" alt="RF Report" width="900">
+
+4. The above image shows all hopsitals and medical facilities in with Mental Health resource shortages and that have Mental Diseases and Disorders as their most prevelant Diagnostic Category. Mental Health providers and Psychiatrists are more urgently needed at **Community Hospital of San Bernardino**, **Riverside University Health System Medical Center**, **St. Francis Medical Center**, **Aurora Behavioral Healthcare**, and **Bakersfield Behavioral Healthcare Hospital**.
+
+&nbsp;
+&nbsp;
+
+Patient Counts by County                            |  Number of Hospitals with Physician Shortages
+:--------------------------------------------------:|:----------------------------------------------------------:
+<img src="Visuals/PXCountMap.png" alt="RF Report">  | <img src="Visuals/ShortageMap.png" alt="RF Report">
 
 
 
