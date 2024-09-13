@@ -4,6 +4,8 @@
 
 ## About this Project
 
+
+
 ### Dataset
 This project utilizes data from the California Health and Human Services Open Data Portal, which provides information on the Top Five Major Diagnostic Categories (MDCs) for inpatient diagnoses across all California hospitals. The dataset, sourced from Patient Discharge Data (PDD), details the frequency of these diagnostic categories in various hospitals, offering a comprehensive view of the most common medical conditions in the state.
 
@@ -19,15 +21,21 @@ The project aims to analyze this data to identify prevalent MDCs across hospital
    a.   Is there a healthcare system lacking in resources?
 
 ### Results
-<img src="Visuals/TopMDCs.png" alt="RF Report" width="800">
-1. Diseases related to the **Circulatory System**, **Respiratory System**, **Infectious Diseases**, **Pregnancies/Childbirth**, and **Complications with Newborns/Neonates** are the most prevalent Diagnostic Categories in California.
+<img src="Visuals/TopMDCs.png" alt="RF Report" width="900">
 
-<img src="Visuals/MDC_Shortage.png" alt="RF Report" width="800">
+1. Diseases related to the  **Respiratory System**, **Infectious Diseases**, **Pregnancies/Childbirth**, and **Complications with Newborns/Neonates** are the most prevalent Diagnostic Categories in California.
+
+
+
+<img src="Visuals/MDC_Shortage.png" alt="RF Report" width="900">
+
 2. **Pregnancies/Childbirth**, **Complications with Newborns/Neonates**, **Infectious Diseases**, and **Circulatory System Diseases** are the most prevalent Diagnostic Categories in various health systems with **Physician Shortages**.
+
 
 
 <img src="Visuals/PrimaryCare.png" alt="RF Report" width="600">
 3. The above 6 hopsitals should be the top priority to meet the demands of filling Primary Care Provider positions at there hospitals due to them being in Primary Care shortage areas and having high counts of patient admissions for diseases needing a Primary Care Provider. 
+
 
 
 <img src="Visuals/MentalHealth.png" alt="RF Report" width="400">
