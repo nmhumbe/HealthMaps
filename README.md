@@ -17,8 +17,7 @@ The project aims to analyze this data to identify prevalent MDCs across hospital
 2. Which Major Diagnostic Categories are most prevalent across different health systems with Physician Shortages?
 3. Which hospitals are in need of primary care physicians to meet patient demands?
 4. Which mental health facilities are in need of mental health specialists to meet patient deamnds?
-5. How does region and healthcare system influence the types of common diagnoses and patient volumes?
-   a.   Is there a healthcare system lacking in resources?
+5. Which regions and healthcare systems should be the top prioority for resource allocation to meet and patient demands?
 
 ### Results
 <img src="Visuals/TopMDCs.png" alt="RF Report" width="900">
@@ -53,10 +52,9 @@ The project aims to analyze this data to identify prevalent MDCs across hospital
 
 Patient Counts by County                            |  Number of Hospitals with Physician Shortages
 :--------------------------------------------------:|:----------------------------------------------------------:
-<img src="Visuals/PXCountMap.png" alt="RF Report">  | <img src="Visuals/ShortageMap.png" alt="RF Report">
+<img src="Visuals/PXCountMap.png" alt="RF Report">  | <img src="Visuals/ShortageMap.png" alt="RF Report" >
 
-
-
+5. **Los Angeles County** and **San Bernandino County** should be the top prioority for resource allocation as they are the counties with the highest patient encounters and with the highest number of hospitals with physician shortages.
 
 <!-- ROADMAP -->
 
