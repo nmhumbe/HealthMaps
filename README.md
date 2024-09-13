@@ -25,18 +25,18 @@ The project aims to analyze this data to identify prevalent MDCs across hospital
 
 1. Diseases related to the  **Respiratory System**, **Infectious Diseases**, **Pregnancies/Childbirth**, and **Complications with Newborns/Neonates** are the most prevalent Diagnostic Categories in California.
 
-
+&nbsp;
 
 <img src="Visuals/MDC_Shortage.png" alt="RF Report" width="900">
 
 2. **Pregnancies/Childbirth**, **Complications with Newborns/Neonates**, **Infectious Diseases**, and **Circulatory System Diseases** are the most prevalent Diagnostic Categories in various health systems with **Physician Shortages**.
 
-
+&nbsp;
 
 <img src="Visuals/PrimaryCare.png" alt="RF Report" width="600">
 3. The above 6 hopsitals should be the top priority to meet the demands of filling Primary Care Provider positions at there hospitals due to them being in Primary Care shortage areas and having high counts of patient admissions for diseases needing a Primary Care Provider. 
 
-
+&nbsp;
 
 <img src="Visuals/MentalHealth.png" alt="RF Report" width="400">
 
