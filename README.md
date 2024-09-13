@@ -43,7 +43,7 @@ The project aims to analyze this data to identify prevalent MDCs across hospital
 &nbsp;
 
 
-<img src="Visuals/MentalHealth.png" alt="RF Report" width="900">
+<img src="Visuals/mhh.png" alt="RF Report" width="900">
 
 4. The above image shows all hopsitals and medical facilities in with Mental Health resource shortages and that have Mental Diseases and Disorders as their most prevelant Diagnostic Category. Mental Health providers and Psychiatrists are more urgently needed at **Community Hospital of San Bernardino**, **Riverside University Health System Medical Center**, **St. Francis Medical Center**, **Aurora Behavioral Healthcare**, and **Bakersfield Behavioral Healthcare Hospital**.
 
