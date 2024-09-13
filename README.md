@@ -12,20 +12,22 @@ The project aims to analyze this data to identify prevalent MDCs across hospital
 
 ### Key Analysis Questions
 1. Which Major Diagnostic Categories are most prevalent in California hospitals?
-1. Which Major Diagnostic Categories are most prevalent across different health systems with Physician Shortages?
-2. Which hospitals are in need of primary care physicians to meet patient demands?
-3. Which mental health facilities are in need of mental health specialists to meet patient deamnds?
-4. How does region and healthcare system influence the types of common diagnoses and patient volumes?
-- Is there a healthcare system lacking in resources?
+2. Which Major Diagnostic Categories are most prevalent across different health systems with Physician Shortages?
+3. Which hospitals are in need of primary care physicians to meet patient demands?
+4. Which mental health facilities are in need of mental health specialists to meet patient deamnds?
+5. How does region and healthcare system influence the types of common diagnoses and patient volumes?
+   a.   Is there a healthcare system lacking in resources?
 
 ### Results
-<img src="Visuals/TopMDCs.png" alt="RF Report" width="600">
+<img src="Visuals/TopMDCs.png" alt="RF Report" width="800">
+1. Diseases related to the **Circulatory System**, **Respiratory System**, **Infectious Diseases**, **Pregnancies/Childbirth**, and **Complications with Newborns/Neonates** are the most prevalent Diagnostic Categories in California.
+
+<img src="Visuals/MDC_Shortage.png" alt="RF Report" width="800">
+2. **Pregnancies/Childbirth**, **Complications with Newborns/Neonates**, **Infectious Diseases**, and **Circulatory System Diseases** are the most prevalent Diagnostic Categories in various health systems with **Physician Shortages**.
 
 
-<img src="Visuals/MDC_Shortage.png" alt="RF Report" width="500">
-
-
-<img src="Visuals/PrimaryCare.png" alt="RF Report" width="400">
+<img src="Visuals/PrimaryCare.png" alt="RF Report" width="600">
+3. The above 6 hopsitals should be the top priority to meet the demands of filling Primary Care Provider positions at there hospitals due to them being in Primary Care shortage areas and having high counts of patient admissions for diseases needing a Primary Care Provider. 
 
 
 <img src="Visuals/MentalHealth.png" alt="RF Report" width="400">
