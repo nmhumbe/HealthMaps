@@ -76,7 +76,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Neha Humbe - nehahumbe@ucla.edu
 
-Project Link -  https://github.com/nmhumbe/CreditScoreClassification
+Project Link -  https://github.com/nmhumbe/HealthMaps
 
 
 <!-- ACKNOWLEDGMENTS -->
